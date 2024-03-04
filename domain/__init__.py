@@ -1,0 +1,1 @@
+# Its presence indicates that the 'domain' directory will be treated as a package.
